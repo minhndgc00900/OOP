@@ -10,9 +10,24 @@ public class Car
 
     public void setModel(String model)
     {
+        String validModel = model.toLowerCase();
         //the word 'this' when you're refering  to the field  of the class
         //update the "model" variable with the contents  of the parameter 'model' that was passed to us =>
         //instead of accessing directly
-        this.model = model;
+        if (validModel.equals("momo") || validModel.equals("mama"))
+        {
+            this.model = model;
+        }
+        else
+        {
+            this.model = "Unknown";
+        }
+
+
+    }
+
+    public String getModel()
+    {
+        return this.model;
     }
 }

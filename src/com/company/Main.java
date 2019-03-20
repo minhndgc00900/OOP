@@ -12,6 +12,7 @@ public class Main {
         //Car porche;
 
         //the car class  has inherited these from a base java class.
-        honda.setModel("Carrera");
+        honda.setModel("MOMO");
+        System.out.println(honda.getModel());
     }
 }
