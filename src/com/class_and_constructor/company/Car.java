@@ -1,4 +1,4 @@
-package com.company;
+package com.class_and_constructor.company;
 
 public class Car
 {//state component (or a field) (State and behaviour)

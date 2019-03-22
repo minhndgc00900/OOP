@@ -1,4 +1,4 @@
-package com.vipCustomer;
+package com.class_and_constructor.vipCustomer;
 
 public class customer
 {

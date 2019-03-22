@@ -1,4 +1,4 @@
-package com.bankaccount;
+package com.class_and_constructor.bankaccount;
 
 public class bank_account
 {

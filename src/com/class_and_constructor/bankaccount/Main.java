@@ -1,6 +1,4 @@
-package com.bankaccount;
-
-import com.company.Car;
+package com.class_and_constructor.bankaccount;
 
 public class Main {
 
