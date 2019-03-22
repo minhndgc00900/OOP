@@ -16,3 +16,8 @@ public class Main {
         System.out.println(honda.getModel());
     }
 }
+
+//=>>> Car honda = new Car();
+//explain more: this line means we create a new instance =>
+//of the Car class. We assigning it (Car) to "honda" variable =>
+//in other words it is  a reference to the object in memory.

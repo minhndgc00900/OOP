@@ -1,7 +1,7 @@
 package com.class_and_constructor.company;
 
 public class Car
-{//state component (or a field) (State and behaviour)
+{//state component (or a field or an instance variable) (State and behaviour)
     private int doors;
     private int wheels;
     private String model;

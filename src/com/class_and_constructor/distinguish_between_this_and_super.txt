@@ -1,0 +1,22 @@
+
+- "super" is used to acces/call the parent class members (variables and methods)
+- "this" is used to to call the current class members (variables and methods).
+this is required when we have a parameter with the same name as an instance variable (field)
+
+*note: we can use both of them anywhere in a class except static areas(the static blocl or a
+a static method). Any attempt to do so will lead to compile-time errors.
+
+- "this" is commonly used with constructors and setters.
+- "super" is commonly used with method overriding, when we call a method with the
+same name from the parent class.
+
+- "this()" can be used only in a constructor and it must be the first statement
+in a constructor
+- the only way to call a parent constructor is by calling "super()"
+- the call to super() must be the first statement in each constructor
+
+- Even abstract classes have constructors.
+- An abstract class is still a super class, so its constructors run when someone
+makes an instance of a concrete subclass
+
+*
