@@ -1,0 +1,21 @@
+- Static method
+
++ a Static methods can't access instance methods and instance variables
+
++ Usually used for operations that don't require any data from an instance
+of the class (from 'this'). Which means we cannot use "this" in static methods
+
++ When a method doesn't use instance variables, that method should be declared as
+static method
+
+
+- Instance method
+
++ Belongs to an instance of a class
+
++ an instance method we have to initialise the class first usually by
+using the new keyword
+
++ Can access instance methods and instance variables directly.
+
++ Can access static methods and static variables directly

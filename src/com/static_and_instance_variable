@@ -1,0 +1,18 @@
+- Static Variables
+
++ declared by using keyword 'static'
+
++ static variables are not used very often
+ex: when reading user input, using "Scanner" we will declare scanner as a
+static variable
+
++ if changes are made to that variable, all other instances will see the effect
+of the change.
+
+- Instance Variables
+
++ they don't use the static keyword
+
++ Instance variables are also known as fields.
+
++ Instance variables belong to an instance of a class
