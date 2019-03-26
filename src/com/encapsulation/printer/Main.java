@@ -18,3 +18,4 @@ public class Main {
                 + " and printed " + printer.getNumberOfPage() + " page(s)");
     }
 }
+//n
