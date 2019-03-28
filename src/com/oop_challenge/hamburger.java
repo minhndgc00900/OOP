@@ -17,15 +17,6 @@ public class hamburger
     public String getName() {
         return name;
     }
-
-    public String getRollType() {
-        return rollType;
-    }
-
-    public String getMeat() {
-        return meat;
-    }
-
     public double getPrice() {
         return price;
     }

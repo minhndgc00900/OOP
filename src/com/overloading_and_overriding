@@ -44,4 +44,4 @@ child would be allowed
 
 + methods that are final cannot be overridden
 
-+ a sub-class can super.methodName() to call the super class version of an overridden method
++ a sub-class can "super.methodName()" to call the super class version of an overridden method

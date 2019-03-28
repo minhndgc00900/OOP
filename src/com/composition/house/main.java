@@ -8,7 +8,7 @@ public class main {
         info info = new info(15, "white");
         curtain curtain = new curtain("hanvico", info);
         livingRoom lr = new livingRoom(tv, curtain);
-        
+
         lr.infoOfTV("aaa", "vvv");
 
     }

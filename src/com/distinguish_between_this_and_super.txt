@@ -1,5 +1,5 @@
 
-- "super" is used to acces/call the parent class members (variables and methods)
+- "super" is used to access/call the parent class members (variables and methods)
 - "this" is used to to call the current class members (variables and methods).
 this is required when we have a parameter with the same name as an instance variable (field)
 
